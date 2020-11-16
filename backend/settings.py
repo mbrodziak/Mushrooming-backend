@@ -26,7 +26,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1',
                  'localhost',
-                 'mushrooming-frontend.herokuapp.com',
+                 'mushrooming-atlas.herokuapp.com',
                  '*']
 
 CORS_ORIGIN_ALLOW_ALL = True
